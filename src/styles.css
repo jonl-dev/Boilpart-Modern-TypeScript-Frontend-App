@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:where(html) {
+  display: grid;
+  height: 100vh;
+}

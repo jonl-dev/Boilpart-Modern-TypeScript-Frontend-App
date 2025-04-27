@@ -14,14 +14,14 @@
 
 ## **Overview**
 
-**Boilpart** is a modern frontend boilerplate built with **React 18**, **Vite**, and **TypeScript**. It supports scalable state management using **Redux Toolkit**, follows modular architecture, and is optimized for DX (Developer Experience) and performance.
+**Boilpart** is a modern frontend boilerplate built with **React 19**, **Vite**, and **TypeScript**. It supports scalable state management using **Redux Toolkit**, follows modular architecture, and is optimized for DX (Developer Experience) and performance.
 
 ---
 
 ## **Features**
 
 - **Vite** for blazing-fast development and build.
-- **React 18** with functional components and hooks.
+- **React 19** with functional components and hooks.
 - **Redux Toolkit** for global state management.
 - **TypeScript** for static type safety.
 - **Custom hooks** for reusable logic.
